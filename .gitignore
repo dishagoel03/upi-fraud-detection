@@ -1,0 +1,16 @@
+# Raw data — too large for GitHub
+*.csv
+*.db
+*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
