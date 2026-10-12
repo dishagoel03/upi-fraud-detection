@@ -113,8 +113,9 @@ End-to-end fraud analytics pipeline on **6.3 million payment transactions** — 
 
 ```
 upi-fraud-detection/
-├── upi_fraud_analysis.ipynb    ← all code in one notebook
-├── charts/                     ← 6 EDA + model charts
+├── notebooks/
+│   ├── upi_fraud_analysis.ipynb    ← all code in one notebook
+├── charts/                         ← 6 EDA + model charts
 │   ├── 01_fraud_by_type.png
 │   ├── 02_fraud_amount.png
 │   ├── 03_fraud_by_hour.png
