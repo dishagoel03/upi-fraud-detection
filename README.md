@@ -2,7 +2,7 @@
 
 End-to-end fraud analytics pipeline on **6.3 million payment transactions** — exploratory data analysis, SQL risk scoring with window functions, Z-score anomaly detection, and Random Forest classifier.
 
-> **Power BI dashboard in progress — adding this week.**
+> **Power BI dashboard in progress**
 
 ---
 
